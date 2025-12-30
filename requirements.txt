@@ -2,4 +2,3 @@ gradio
 torch
 numpy
 pillow
-os
