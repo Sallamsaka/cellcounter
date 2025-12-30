@@ -1,6 +1,8 @@
 **/
 !demo_images/
 !demo_images/**
+!screenshots/
+!screenshots/**
 *.docx
 *.zip
 *.csv
