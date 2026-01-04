@@ -1,12 +1,13 @@
 ---
 title: Cellcounter
-emoji: 🧫
-colorFrom: indigo
-colorTo: pink
+emoji: 🔬
+colorFrom: blue
+colorTo: gray
 sdk: gradio
 app_file: app.py
 pinned: false
 ---
+
 # **Cellcounter**
 
 **Live demo:** https://sallamsaka-cellcounter.hf.space  
