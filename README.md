@@ -102,3 +102,4 @@ The Kaggle dataset was not designed specifically for density prediction, so, som
 
 - Allen Goodman, Anne Carpenter, Elizabeth Park, jlefman-nvidia, Josette_BoozAllen, Kyle, Maggie, Nilofer, Peter Sedivec, and Will Cukierski. 2018 Data Science Bowl . https://kaggle.com/competitions/data-science-bowl-2018, 2018. Kaggle.
 - ChatGPT (learning aid, guidance, troubleshooting, etc)
+- Morelli, R., Clissa, L., Amici, R., et al. (2021). Automating cell counting in fluorescent microscopy through deep learning with c-ResUnet. Scientific Reports, 11, 22920. https://doi.org/10.1038/s41598-021-01929-5
