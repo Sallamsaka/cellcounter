@@ -223,5 +223,8 @@ with gr.Blocks() as demo:
         outputs=[out_density, out_count, out_note],
     )
 
+import torch, numpy, PIL, gradio
+print("VERSIONS", torch.__version__, numpy.__version__, PIL.__version__, gradio.__version__)
+
 if __name__ == "__main__":
     demo.launch(ssr_mode=False)
