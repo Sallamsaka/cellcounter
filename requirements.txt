@@ -1,4 +1,4 @@
-gradio
-torch
-numpy
-pillow
+gradio==6.2.0
+torch==2.11.0
+numpy==2.2.6
+pillow==12.2.0
